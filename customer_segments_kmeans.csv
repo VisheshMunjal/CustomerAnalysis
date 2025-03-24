@@ -1,0 +1,501 @@
+customer_id,total_spent,purchase_frequency,unique_categories,cluster,segment
+1,6724.0199999999995,15,6,1,High Spenders
+2,4680.43,9,5,0,Frequent Shoppers and Medium Spenders
+3,6875.04,12,5,1,High Spenders
+4,7960.07,15,6,1,High Spenders
+5,8806.03,14,5,1,High Spenders
+6,4830.01,8,5,0,Frequent Shoppers and Medium Spenders
+7,6560.0599999999995,13,6,1,High Spenders
+8,6746.67,12,4,1,High Spenders
+9,3823.91,6,5,0,Frequent Shoppers and Medium Spenders
+10,2501.58,6,4,2,Low Spenders and Less Frequent Shoppers
+11,4663.88,9,5,0,Frequent Shoppers and Medium Spenders
+12,5616.98,10,6,0,Frequent Shoppers and Medium Spenders
+13,5754.65,13,5,0,Frequent Shoppers and Medium Spenders
+14,7178.38,12,6,1,High Spenders
+15,2894.52,5,3,2,Low Spenders and Less Frequent Shoppers
+16,1706.3600000000001,8,5,2,Low Spenders and Less Frequent Shoppers
+17,5059.64,11,5,0,Frequent Shoppers and Medium Spenders
+18,5660.12,10,6,0,Frequent Shoppers and Medium Spenders
+19,2283.36,4,4,2,Low Spenders and Less Frequent Shoppers
+20,2265.2,5,4,2,Low Spenders and Less Frequent Shoppers
+21,3826.08,9,5,0,Frequent Shoppers and Medium Spenders
+22,5978.47,12,4,0,Frequent Shoppers and Medium Spenders
+23,5993.0,9,4,0,Frequent Shoppers and Medium Spenders
+24,3687.2999999999997,7,4,2,Low Spenders and Less Frequent Shoppers
+25,4118.33,9,5,0,Frequent Shoppers and Medium Spenders
+26,4441.51,7,4,2,Low Spenders and Less Frequent Shoppers
+27,4416.66,10,5,0,Frequent Shoppers and Medium Spenders
+28,1200.19,4,4,2,Low Spenders and Less Frequent Shoppers
+29,4616.110000000001,12,5,0,Frequent Shoppers and Medium Spenders
+30,6825.72,14,6,1,High Spenders
+31,4078.39,6,4,2,Low Spenders and Less Frequent Shoppers
+32,2339.24,5,4,2,Low Spenders and Less Frequent Shoppers
+33,4948.59,9,6,0,Frequent Shoppers and Medium Spenders
+34,3100.23,6,5,2,Low Spenders and Less Frequent Shoppers
+35,3714.52,10,6,0,Frequent Shoppers and Medium Spenders
+36,4672.0,9,6,0,Frequent Shoppers and Medium Spenders
+37,5510.27,10,5,0,Frequent Shoppers and Medium Spenders
+38,7006.12,12,6,1,High Spenders
+39,8818.98,17,5,1,High Spenders
+40,2849.12,7,4,2,Low Spenders and Less Frequent Shoppers
+41,3570.07,11,4,2,Low Spenders and Less Frequent Shoppers
+42,3319.48,5,3,2,Low Spenders and Less Frequent Shoppers
+43,6785.62,10,5,1,High Spenders
+44,5352.47,13,6,0,Frequent Shoppers and Medium Spenders
+45,2061.48,3,3,2,Low Spenders and Less Frequent Shoppers
+46,1886.6,5,3,2,Low Spenders and Less Frequent Shoppers
+47,4368.4400000000005,10,6,0,Frequent Shoppers and Medium Spenders
+48,7519.01,11,5,1,High Spenders
+49,6180.85,12,6,1,High Spenders
+50,4662.54,12,5,0,Frequent Shoppers and Medium Spenders
+51,5191.47,8,4,0,Frequent Shoppers and Medium Spenders
+52,5938.61,12,5,0,Frequent Shoppers and Medium Spenders
+53,7073.31,13,6,1,High Spenders
+54,719.77,4,2,2,Low Spenders and Less Frequent Shoppers
+55,3208.4900000000002,9,4,2,Low Spenders and Less Frequent Shoppers
+56,2957.0299999999997,6,4,2,Low Spenders and Less Frequent Shoppers
+57,4206.8,9,5,0,Frequent Shoppers and Medium Spenders
+58,2848.7200000000003,4,3,2,Low Spenders and Less Frequent Shoppers
+59,3216.34,10,5,0,Frequent Shoppers and Medium Spenders
+60,3339.21,9,5,0,Frequent Shoppers and Medium Spenders
+61,2856.95,8,3,2,Low Spenders and Less Frequent Shoppers
+62,7283.37,13,5,1,High Spenders
+63,6193.65,13,6,1,High Spenders
+64,3351.09,8,4,2,Low Spenders and Less Frequent Shoppers
+65,6412.79,10,5,0,Frequent Shoppers and Medium Spenders
+66,6356.65,12,6,1,High Spenders
+67,4290.45,8,4,2,Low Spenders and Less Frequent Shoppers
+68,5204.51,9,4,0,Frequent Shoppers and Medium Spenders
+69,7497.97,14,5,1,High Spenders
+70,5262.08,8,5,0,Frequent Shoppers and Medium Spenders
+71,1597.1399999999999,4,3,2,Low Spenders and Less Frequent Shoppers
+72,4653.43,10,4,0,Frequent Shoppers and Medium Spenders
+73,4078.95,12,6,0,Frequent Shoppers and Medium Spenders
+74,5819.5199999999995,13,5,0,Frequent Shoppers and Medium Spenders
+75,7191.86,11,5,1,High Spenders
+76,6725.49,12,6,1,High Spenders
+77,6711.38,13,5,1,High Spenders
+78,6931.01,12,6,1,High Spenders
+79,8884.210000000001,15,6,1,High Spenders
+80,7305.0599999999995,12,3,1,High Spenders
+81,4037.31,9,3,2,Low Spenders and Less Frequent Shoppers
+82,3735.8,11,6,0,Frequent Shoppers and Medium Spenders
+83,5756.23,13,6,1,High Spenders
+84,6227.8,14,6,1,High Spenders
+85,4719.36,10,5,0,Frequent Shoppers and Medium Spenders
+86,2373.25,6,3,2,Low Spenders and Less Frequent Shoppers
+87,2878.51,7,4,2,Low Spenders and Less Frequent Shoppers
+88,3556.1800000000003,8,3,2,Low Spenders and Less Frequent Shoppers
+89,5428.41,8,4,0,Frequent Shoppers and Medium Spenders
+90,7634.48,13,5,1,High Spenders
+91,5849.7,11,6,0,Frequent Shoppers and Medium Spenders
+92,4386.53,13,6,0,Frequent Shoppers and Medium Spenders
+93,4759.64,9,5,0,Frequent Shoppers and Medium Spenders
+94,5586.03,10,5,0,Frequent Shoppers and Medium Spenders
+95,5089.12,14,6,0,Frequent Shoppers and Medium Spenders
+96,4562.54,10,4,0,Frequent Shoppers and Medium Spenders
+97,5736.96,10,5,0,Frequent Shoppers and Medium Spenders
+98,5877.67,11,6,0,Frequent Shoppers and Medium Spenders
+99,2694.2,5,3,2,Low Spenders and Less Frequent Shoppers
+100,5561.58,11,6,0,Frequent Shoppers and Medium Spenders
+101,10168.6,17,6,1,High Spenders
+102,6217.4,11,6,1,High Spenders
+103,8917.4,17,5,1,High Spenders
+104,5956.02,11,4,0,Frequent Shoppers and Medium Spenders
+105,2315.8199999999997,7,5,2,Low Spenders and Less Frequent Shoppers
+106,5403.18,10,4,0,Frequent Shoppers and Medium Spenders
+107,5002.74,12,4,0,Frequent Shoppers and Medium Spenders
+108,5472.21,10,6,0,Frequent Shoppers and Medium Spenders
+109,5685.81,12,6,0,Frequent Shoppers and Medium Spenders
+110,5170.53,10,5,0,Frequent Shoppers and Medium Spenders
+111,5305.91,13,5,0,Frequent Shoppers and Medium Spenders
+112,7829.75,16,6,1,High Spenders
+113,5182.84,9,5,0,Frequent Shoppers and Medium Spenders
+114,4165.09,11,6,0,Frequent Shoppers and Medium Spenders
+115,7039.49,16,6,1,High Spenders
+116,6280.72,11,5,0,Frequent Shoppers and Medium Spenders
+117,5264.97,8,4,0,Frequent Shoppers and Medium Spenders
+118,3908.81,6,3,2,Low Spenders and Less Frequent Shoppers
+119,4968.89,7,4,0,Frequent Shoppers and Medium Spenders
+120,8084.85,15,6,1,High Spenders
+121,5675.97,14,5,0,Frequent Shoppers and Medium Spenders
+122,2915.75,8,5,2,Low Spenders and Less Frequent Shoppers
+123,4485.11,8,2,2,Low Spenders and Less Frequent Shoppers
+124,8957.68,15,5,1,High Spenders
+125,1741.41,9,3,2,Low Spenders and Less Frequent Shoppers
+126,5281.82,12,5,0,Frequent Shoppers and Medium Spenders
+127,3217.81,7,4,2,Low Spenders and Less Frequent Shoppers
+128,5096.71,12,6,0,Frequent Shoppers and Medium Spenders
+129,6415.99,11,6,1,High Spenders
+130,5361.73,8,4,0,Frequent Shoppers and Medium Spenders
+131,4571.16,8,5,0,Frequent Shoppers and Medium Spenders
+132,9146.31,19,6,1,High Spenders
+133,7390.39,13,6,1,High Spenders
+134,7045.01,14,6,1,High Spenders
+135,6975.28,11,5,1,High Spenders
+136,6513.349999999999,11,6,1,High Spenders
+137,3599.48,6,6,0,Frequent Shoppers and Medium Spenders
+138,5504.46,11,5,0,Frequent Shoppers and Medium Spenders
+139,7067.55,12,5,1,High Spenders
+140,2693.5299999999997,6,3,2,Low Spenders and Less Frequent Shoppers
+141,4490.139999999999,9,5,0,Frequent Shoppers and Medium Spenders
+142,5064.77,9,4,0,Frequent Shoppers and Medium Spenders
+143,3477.2,6,4,2,Low Spenders and Less Frequent Shoppers
+144,4772.8,12,6,0,Frequent Shoppers and Medium Spenders
+145,5558.08,10,5,0,Frequent Shoppers and Medium Spenders
+146,7718.2,16,6,1,High Spenders
+147,4096.92,8,5,0,Frequent Shoppers and Medium Spenders
+148,4551.52,11,5,0,Frequent Shoppers and Medium Spenders
+149,3937.7400000000002,8,4,2,Low Spenders and Less Frequent Shoppers
+150,6153.42,10,4,0,Frequent Shoppers and Medium Spenders
+151,8971.99,17,6,1,High Spenders
+152,3440.01,9,5,0,Frequent Shoppers and Medium Spenders
+153,4048.2799999999997,8,6,0,Frequent Shoppers and Medium Spenders
+154,5819.55,12,5,0,Frequent Shoppers and Medium Spenders
+155,7521.72,12,6,1,High Spenders
+156,3403.77,11,4,2,Low Spenders and Less Frequent Shoppers
+157,1660.01,4,4,2,Low Spenders and Less Frequent Shoppers
+158,6796.59,14,5,1,High Spenders
+159,5209.36,11,5,0,Frequent Shoppers and Medium Spenders
+160,5032.68,9,6,0,Frequent Shoppers and Medium Spenders
+161,4171.86,8,5,0,Frequent Shoppers and Medium Spenders
+162,4562.53,8,5,0,Frequent Shoppers and Medium Spenders
+163,3604.4900000000002,8,5,0,Frequent Shoppers and Medium Spenders
+164,5842.25,9,4,0,Frequent Shoppers and Medium Spenders
+165,5807.17,11,5,0,Frequent Shoppers and Medium Spenders
+166,6415.35,14,6,1,High Spenders
+167,5441.23,10,5,0,Frequent Shoppers and Medium Spenders
+168,7695.71,12,6,1,High Spenders
+169,5372.63,9,4,0,Frequent Shoppers and Medium Spenders
+170,5239.73,10,3,0,Frequent Shoppers and Medium Spenders
+171,2200.85,7,4,2,Low Spenders and Less Frequent Shoppers
+172,5354.68,11,5,0,Frequent Shoppers and Medium Spenders
+173,4983.35,8,5,0,Frequent Shoppers and Medium Spenders
+174,3499.56,8,5,0,Frequent Shoppers and Medium Spenders
+175,3694.1,9,6,0,Frequent Shoppers and Medium Spenders
+176,4545.0,9,3,2,Low Spenders and Less Frequent Shoppers
+177,3951.04,8,5,0,Frequent Shoppers and Medium Spenders
+178,3843.87,9,6,0,Frequent Shoppers and Medium Spenders
+179,5906.96,13,5,0,Frequent Shoppers and Medium Spenders
+180,4452.87,9,4,0,Frequent Shoppers and Medium Spenders
+181,3560.1,7,4,2,Low Spenders and Less Frequent Shoppers
+182,5784.16,13,6,1,High Spenders
+183,3517.85,6,5,2,Low Spenders and Less Frequent Shoppers
+184,5303.8,9,5,0,Frequent Shoppers and Medium Spenders
+185,6408.54,13,5,1,High Spenders
+186,4469.42,10,6,0,Frequent Shoppers and Medium Spenders
+187,4081.34,10,6,0,Frequent Shoppers and Medium Spenders
+188,4240.0,9,6,0,Frequent Shoppers and Medium Spenders
+189,5672.09,12,5,0,Frequent Shoppers and Medium Spenders
+190,6941.98,11,5,1,High Spenders
+191,6142.57,11,5,0,Frequent Shoppers and Medium Spenders
+192,4664.85,8,5,0,Frequent Shoppers and Medium Spenders
+193,1915.96,3,2,2,Low Spenders and Less Frequent Shoppers
+194,2714.87,9,5,2,Low Spenders and Less Frequent Shoppers
+195,4761.22,8,5,0,Frequent Shoppers and Medium Spenders
+196,2540.98,9,5,2,Low Spenders and Less Frequent Shoppers
+197,3846.9900000000002,7,5,0,Frequent Shoppers and Medium Spenders
+198,7303.97,16,6,1,High Spenders
+199,7698.07,15,6,1,High Spenders
+200,6558.6900000000005,13,5,1,High Spenders
+201,1927.69,6,4,2,Low Spenders and Less Frequent Shoppers
+202,2942.3399999999997,9,5,2,Low Spenders and Less Frequent Shoppers
+203,3282.63,10,6,0,Frequent Shoppers and Medium Spenders
+204,8277.47,16,6,1,High Spenders
+205,3569.54,6,5,2,Low Spenders and Less Frequent Shoppers
+206,6484.49,11,5,1,High Spenders
+207,4332.87,10,5,0,Frequent Shoppers and Medium Spenders
+208,5405.8099999999995,9,4,0,Frequent Shoppers and Medium Spenders
+209,6336.2300000000005,12,5,1,High Spenders
+210,3435.1,8,4,2,Low Spenders and Less Frequent Shoppers
+211,4843.66,11,5,0,Frequent Shoppers and Medium Spenders
+212,5332.9,10,4,0,Frequent Shoppers and Medium Spenders
+213,3691.41,7,5,0,Frequent Shoppers and Medium Spenders
+214,4106.87,11,4,0,Frequent Shoppers and Medium Spenders
+215,3778.37,8,5,0,Frequent Shoppers and Medium Spenders
+216,4108.88,8,5,0,Frequent Shoppers and Medium Spenders
+217,4759.12,9,6,0,Frequent Shoppers and Medium Spenders
+218,4967.47,8,2,2,Low Spenders and Less Frequent Shoppers
+219,3955.13,8,5,0,Frequent Shoppers and Medium Spenders
+220,4553.17,10,5,0,Frequent Shoppers and Medium Spenders
+221,2428.77,9,5,2,Low Spenders and Less Frequent Shoppers
+222,2364.9,7,5,2,Low Spenders and Less Frequent Shoppers
+223,3844.19,9,5,0,Frequent Shoppers and Medium Spenders
+224,2295.11,7,4,2,Low Spenders and Less Frequent Shoppers
+225,1584.72,4,2,2,Low Spenders and Less Frequent Shoppers
+226,9890.48,16,6,1,High Spenders
+227,4459.02,11,5,0,Frequent Shoppers and Medium Spenders
+228,3450.51,7,4,2,Low Spenders and Less Frequent Shoppers
+229,4830.79,9,5,0,Frequent Shoppers and Medium Spenders
+230,6591.66,14,6,1,High Spenders
+231,1593.33,6,5,2,Low Spenders and Less Frequent Shoppers
+232,5011.400000000001,11,5,0,Frequent Shoppers and Medium Spenders
+233,5678.02,10,5,0,Frequent Shoppers and Medium Spenders
+234,6670.0599999999995,12,5,1,High Spenders
+235,8463.18,14,5,1,High Spenders
+236,4830.98,10,5,0,Frequent Shoppers and Medium Spenders
+237,3610.58,9,6,0,Frequent Shoppers and Medium Spenders
+238,6329.85,11,6,1,High Spenders
+239,5029.35,10,5,0,Frequent Shoppers and Medium Spenders
+240,4305.21,10,5,0,Frequent Shoppers and Medium Spenders
+241,6959.85,11,5,1,High Spenders
+242,6092.08,11,6,1,High Spenders
+243,5651.78,13,6,0,Frequent Shoppers and Medium Spenders
+244,7065.2300000000005,11,6,1,High Spenders
+245,3642.0299999999997,9,4,2,Low Spenders and Less Frequent Shoppers
+246,5491.15,9,4,0,Frequent Shoppers and Medium Spenders
+247,5910.18,11,6,0,Frequent Shoppers and Medium Spenders
+248,2875.96,5,4,2,Low Spenders and Less Frequent Shoppers
+249,2242.15,5,4,2,Low Spenders and Less Frequent Shoppers
+250,4479.29,7,4,2,Low Spenders and Less Frequent Shoppers
+251,5017.3,12,5,0,Frequent Shoppers and Medium Spenders
+252,4863.03,8,5,0,Frequent Shoppers and Medium Spenders
+253,3363.23,8,5,0,Frequent Shoppers and Medium Spenders
+254,3910.12,6,3,2,Low Spenders and Less Frequent Shoppers
+255,4208.52,12,6,0,Frequent Shoppers and Medium Spenders
+256,3859.4700000000003,10,6,0,Frequent Shoppers and Medium Spenders
+257,5348.9,9,5,0,Frequent Shoppers and Medium Spenders
+258,2163.7,7,5,2,Low Spenders and Less Frequent Shoppers
+259,5450.09,9,5,0,Frequent Shoppers and Medium Spenders
+260,5972.41,14,6,1,High Spenders
+261,5596.9400000000005,12,6,0,Frequent Shoppers and Medium Spenders
+262,7554.65,13,6,1,High Spenders
+263,7955.71,15,6,1,High Spenders
+264,3492.44,7,5,2,Low Spenders and Less Frequent Shoppers
+265,3153.59,7,6,0,Frequent Shoppers and Medium Spenders
+266,6353.17,12,4,0,Frequent Shoppers and Medium Spenders
+267,6270.67,10,6,1,High Spenders
+268,11204.2,18,6,1,High Spenders
+269,1806.21,6,2,2,Low Spenders and Less Frequent Shoppers
+270,6306.8,12,4,0,Frequent Shoppers and Medium Spenders
+271,5379.74,10,5,0,Frequent Shoppers and Medium Spenders
+272,4514.32,9,6,0,Frequent Shoppers and Medium Spenders
+273,9439.289999999999,14,6,1,High Spenders
+274,7530.88,16,5,1,High Spenders
+275,6334.13,13,6,1,High Spenders
+276,4828.74,9,5,0,Frequent Shoppers and Medium Spenders
+277,3991.86,9,4,2,Low Spenders and Less Frequent Shoppers
+278,5356.01,9,5,0,Frequent Shoppers and Medium Spenders
+279,4255.6,7,5,0,Frequent Shoppers and Medium Spenders
+280,2791.1800000000003,9,5,2,Low Spenders and Less Frequent Shoppers
+281,3768.2,8,5,0,Frequent Shoppers and Medium Spenders
+282,4483.99,10,4,0,Frequent Shoppers and Medium Spenders
+283,4413.08,11,4,0,Frequent Shoppers and Medium Spenders
+284,7703.26,13,6,1,High Spenders
+285,8570.04,17,5,1,High Spenders
+286,9196.55,18,6,1,High Spenders
+287,4881.18,9,4,0,Frequent Shoppers and Medium Spenders
+288,4447.4,10,4,0,Frequent Shoppers and Medium Spenders
+289,5734.29,11,4,0,Frequent Shoppers and Medium Spenders
+290,2814.45,6,4,2,Low Spenders and Less Frequent Shoppers
+291,6878.15,13,5,1,High Spenders
+292,2956.17,8,5,2,Low Spenders and Less Frequent Shoppers
+293,4154.52,9,6,0,Frequent Shoppers and Medium Spenders
+294,7466.7,14,6,1,High Spenders
+295,4933.87,9,4,0,Frequent Shoppers and Medium Spenders
+296,3970.75,6,4,2,Low Spenders and Less Frequent Shoppers
+297,6225.6,11,6,1,High Spenders
+298,4470.72,8,4,0,Frequent Shoppers and Medium Spenders
+299,4283.54,7,3,2,Low Spenders and Less Frequent Shoppers
+300,4965.16,11,4,0,Frequent Shoppers and Medium Spenders
+301,5320.84,11,5,0,Frequent Shoppers and Medium Spenders
+302,7540.41,15,6,1,High Spenders
+303,7171.57,13,5,1,High Spenders
+304,4340.76,9,5,0,Frequent Shoppers and Medium Spenders
+305,4889.12,9,6,0,Frequent Shoppers and Medium Spenders
+306,5310.43,9,4,0,Frequent Shoppers and Medium Spenders
+307,2969.83,5,3,2,Low Spenders and Less Frequent Shoppers
+308,4689.62,8,5,0,Frequent Shoppers and Medium Spenders
+309,3230.76,6,4,2,Low Spenders and Less Frequent Shoppers
+310,4511.18,8,4,0,Frequent Shoppers and Medium Spenders
+311,4721.03,10,4,0,Frequent Shoppers and Medium Spenders
+312,783.23,5,3,2,Low Spenders and Less Frequent Shoppers
+313,3494.5,11,3,2,Low Spenders and Less Frequent Shoppers
+314,6865.57,11,5,1,High Spenders
+315,5475.139999999999,9,5,0,Frequent Shoppers and Medium Spenders
+316,7329.92,14,6,1,High Spenders
+317,3454.3199999999997,8,5,0,Frequent Shoppers and Medium Spenders
+318,2986.01,6,4,2,Low Spenders and Less Frequent Shoppers
+319,7376.37,13,5,1,High Spenders
+320,3713.61,8,5,0,Frequent Shoppers and Medium Spenders
+321,6896.61,12,5,1,High Spenders
+322,6578.28,13,4,1,High Spenders
+323,3910.12,12,5,0,Frequent Shoppers and Medium Spenders
+324,4306.2300000000005,10,5,0,Frequent Shoppers and Medium Spenders
+325,6032.53,13,4,0,Frequent Shoppers and Medium Spenders
+326,3260.25,6,4,2,Low Spenders and Less Frequent Shoppers
+327,4634.05,8,5,0,Frequent Shoppers and Medium Spenders
+328,6158.91,14,6,1,High Spenders
+329,5164.71,12,6,0,Frequent Shoppers and Medium Spenders
+330,1517.83,4,3,2,Low Spenders and Less Frequent Shoppers
+331,4415.42,9,5,0,Frequent Shoppers and Medium Spenders
+332,3025.17,7,3,2,Low Spenders and Less Frequent Shoppers
+333,5833.54,10,5,0,Frequent Shoppers and Medium Spenders
+334,3693.79,6,5,2,Low Spenders and Less Frequent Shoppers
+335,4306.28,7,4,2,Low Spenders and Less Frequent Shoppers
+336,4419.15,8,5,0,Frequent Shoppers and Medium Spenders
+337,6390.7300000000005,13,5,1,High Spenders
+338,5481.35,13,5,0,Frequent Shoppers and Medium Spenders
+339,3896.66,8,4,2,Low Spenders and Less Frequent Shoppers
+340,4288.22,11,5,0,Frequent Shoppers and Medium Spenders
+341,5537.42,9,5,0,Frequent Shoppers and Medium Spenders
+342,6390.860000000001,13,5,1,High Spenders
+343,2537.33,5,4,2,Low Spenders and Less Frequent Shoppers
+344,6147.05,12,5,0,Frequent Shoppers and Medium Spenders
+345,5345.8,11,5,0,Frequent Shoppers and Medium Spenders
+346,5056.12,10,5,0,Frequent Shoppers and Medium Spenders
+347,5025.73,11,6,0,Frequent Shoppers and Medium Spenders
+348,5965.3,13,6,1,High Spenders
+349,5742.36,12,5,0,Frequent Shoppers and Medium Spenders
+350,5516.47,10,5,0,Frequent Shoppers and Medium Spenders
+351,8382.04,14,5,1,High Spenders
+352,3417.55,9,5,0,Frequent Shoppers and Medium Spenders
+353,3749.56,7,4,2,Low Spenders and Less Frequent Shoppers
+354,3353.74,10,5,0,Frequent Shoppers and Medium Spenders
+355,5377.9400000000005,11,5,0,Frequent Shoppers and Medium Spenders
+356,5460.32,10,5,0,Frequent Shoppers and Medium Spenders
+357,2309.4900000000002,5,3,2,Low Spenders and Less Frequent Shoppers
+358,3919.83,11,6,0,Frequent Shoppers and Medium Spenders
+359,5746.4,14,5,0,Frequent Shoppers and Medium Spenders
+360,5691.45,9,6,0,Frequent Shoppers and Medium Spenders
+361,4057.06,9,4,2,Low Spenders and Less Frequent Shoppers
+362,1833.11,6,3,2,Low Spenders and Less Frequent Shoppers
+363,6688.64,13,6,1,High Spenders
+364,5091.22,12,5,0,Frequent Shoppers and Medium Spenders
+365,5438.85,11,5,0,Frequent Shoppers and Medium Spenders
+366,9671.45,16,6,1,High Spenders
+367,2850.92,6,4,2,Low Spenders and Less Frequent Shoppers
+368,12147.44,19,6,1,High Spenders
+369,5388.37,11,6,0,Frequent Shoppers and Medium Spenders
+370,5171.19,9,4,0,Frequent Shoppers and Medium Spenders
+371,7429.53,12,5,1,High Spenders
+372,3797.21,9,5,0,Frequent Shoppers and Medium Spenders
+373,10101.31,14,6,1,High Spenders
+374,6576.849999999999,12,5,1,High Spenders
+375,8872.89,14,6,1,High Spenders
+376,7681.07,13,6,1,High Spenders
+377,2930.71,7,5,2,Low Spenders and Less Frequent Shoppers
+378,7580.82,14,6,1,High Spenders
+379,5011.58,9,5,0,Frequent Shoppers and Medium Spenders
+380,3683.9300000000003,9,6,0,Frequent Shoppers and Medium Spenders
+381,4201.03,7,4,2,Low Spenders and Less Frequent Shoppers
+382,6366.14,10,5,0,Frequent Shoppers and Medium Spenders
+383,6303.75,12,5,1,High Spenders
+384,5390.92,10,5,0,Frequent Shoppers and Medium Spenders
+385,2587.5299999999997,7,5,2,Low Spenders and Less Frequent Shoppers
+386,5372.5199999999995,10,6,0,Frequent Shoppers and Medium Spenders
+387,1165.1799999999998,4,2,2,Low Spenders and Less Frequent Shoppers
+388,6325.26,10,5,0,Frequent Shoppers and Medium Spenders
+389,1126.57,4,4,2,Low Spenders and Less Frequent Shoppers
+390,10849.15,19,6,1,High Spenders
+391,7180.66,12,5,1,High Spenders
+392,8215.43,15,6,1,High Spenders
+393,5962.35,12,5,0,Frequent Shoppers and Medium Spenders
+394,5914.7,12,5,0,Frequent Shoppers and Medium Spenders
+395,5907.45,12,5,0,Frequent Shoppers and Medium Spenders
+396,5597.62,11,6,0,Frequent Shoppers and Medium Spenders
+397,5930.74,10,4,0,Frequent Shoppers and Medium Spenders
+398,4862.2300000000005,10,4,0,Frequent Shoppers and Medium Spenders
+399,3057.07,6,5,2,Low Spenders and Less Frequent Shoppers
+400,4705.99,7,5,0,Frequent Shoppers and Medium Spenders
+401,5697.65,10,4,0,Frequent Shoppers and Medium Spenders
+402,5573.01,11,6,0,Frequent Shoppers and Medium Spenders
+403,5361.72,9,5,0,Frequent Shoppers and Medium Spenders
+404,2909.94,10,6,0,Frequent Shoppers and Medium Spenders
+405,5974.94,12,6,1,High Spenders
+406,4280.35,7,4,2,Low Spenders and Less Frequent Shoppers
+407,4327.67,7,4,2,Low Spenders and Less Frequent Shoppers
+408,6485.02,11,4,0,Frequent Shoppers and Medium Spenders
+409,2341.66,6,4,2,Low Spenders and Less Frequent Shoppers
+410,4297.45,8,6,0,Frequent Shoppers and Medium Spenders
+411,5091.54,8,6,0,Frequent Shoppers and Medium Spenders
+412,9799.1,21,6,1,High Spenders
+413,1974.87,6,4,2,Low Spenders and Less Frequent Shoppers
+414,6652.1,12,3,0,Frequent Shoppers and Medium Spenders
+415,4250.51,11,5,0,Frequent Shoppers and Medium Spenders
+416,4605.41,8,5,0,Frequent Shoppers and Medium Spenders
+417,6483.93,12,5,1,High Spenders
+418,6163.35,11,5,0,Frequent Shoppers and Medium Spenders
+419,3939.65,9,5,0,Frequent Shoppers and Medium Spenders
+420,5980.75,14,5,1,High Spenders
+421,4464.93,9,5,0,Frequent Shoppers and Medium Spenders
+422,2677.31,9,4,2,Low Spenders and Less Frequent Shoppers
+423,4707.45,10,5,0,Frequent Shoppers and Medium Spenders
+424,5308.2,11,5,0,Frequent Shoppers and Medium Spenders
+425,802.67,5,4,2,Low Spenders and Less Frequent Shoppers
+426,5804.13,13,6,1,High Spenders
+427,5955.36,9,5,0,Frequent Shoppers and Medium Spenders
+428,6230.87,14,5,1,High Spenders
+429,6982.71,12,5,1,High Spenders
+430,2671.07,6,4,2,Low Spenders and Less Frequent Shoppers
+431,5039.95,10,5,0,Frequent Shoppers and Medium Spenders
+432,6915.82,16,6,1,High Spenders
+433,5781.16,11,6,0,Frequent Shoppers and Medium Spenders
+434,4559.73,11,6,0,Frequent Shoppers and Medium Spenders
+435,4572.63,11,5,0,Frequent Shoppers and Medium Spenders
+436,8570.8,16,5,1,High Spenders
+437,4100.68,7,4,2,Low Spenders and Less Frequent Shoppers
+438,4761.83,10,6,0,Frequent Shoppers and Medium Spenders
+439,5328.6,11,5,0,Frequent Shoppers and Medium Spenders
+440,5059.639999999999,11,6,0,Frequent Shoppers and Medium Spenders
+441,4722.66,7,5,0,Frequent Shoppers and Medium Spenders
+442,3318.89,10,6,0,Frequent Shoppers and Medium Spenders
+443,5473.66,10,5,0,Frequent Shoppers and Medium Spenders
+444,2970.06,7,5,2,Low Spenders and Less Frequent Shoppers
+445,7202.29,12,6,1,High Spenders
+446,2916.21,11,5,0,Frequent Shoppers and Medium Spenders
+447,876.12,3,3,2,Low Spenders and Less Frequent Shoppers
+448,4143.4400000000005,8,4,2,Low Spenders and Less Frequent Shoppers
+449,5884.45,12,5,0,Frequent Shoppers and Medium Spenders
+450,6273.36,11,6,1,High Spenders
+451,1809.71,5,4,2,Low Spenders and Less Frequent Shoppers
+452,5357.04,12,6,0,Frequent Shoppers and Medium Spenders
+453,3637.6800000000003,7,5,0,Frequent Shoppers and Medium Spenders
+454,1951.2399999999998,5,4,2,Low Spenders and Less Frequent Shoppers
+455,4298.82,11,6,0,Frequent Shoppers and Medium Spenders
+456,6574.84,13,6,1,High Spenders
+457,6372.2699999999995,12,6,1,High Spenders
+458,2955.27,8,5,2,Low Spenders and Less Frequent Shoppers
+459,3924.48,11,5,0,Frequent Shoppers and Medium Spenders
+460,3186.35,7,4,2,Low Spenders and Less Frequent Shoppers
+461,4455.63,12,6,0,Frequent Shoppers and Medium Spenders
+462,1399.0900000000001,4,3,2,Low Spenders and Less Frequent Shoppers
+463,5702.88,10,5,0,Frequent Shoppers and Medium Spenders
+464,2142.3,6,5,2,Low Spenders and Less Frequent Shoppers
+465,6232.93,13,5,1,High Spenders
+466,1631.17,5,3,2,Low Spenders and Less Frequent Shoppers
+467,3337.45,10,5,0,Frequent Shoppers and Medium Spenders
+468,3290.1,7,4,2,Low Spenders and Less Frequent Shoppers
+469,4366.860000000001,10,6,0,Frequent Shoppers and Medium Spenders
+470,5405.22,9,4,0,Frequent Shoppers and Medium Spenders
+471,4310.62,9,5,0,Frequent Shoppers and Medium Spenders
+472,3048.09,8,4,2,Low Spenders and Less Frequent Shoppers
+473,2973.95,6,3,2,Low Spenders and Less Frequent Shoppers
+474,7669.19,14,5,1,High Spenders
+475,6288.08,13,6,1,High Spenders
+476,4352.03,9,3,2,Low Spenders and Less Frequent Shoppers
+477,7684.4400000000005,13,6,1,High Spenders
+478,3981.8,7,4,2,Low Spenders and Less Frequent Shoppers
+479,6952.6,13,6,1,High Spenders
+480,2746.97,5,4,2,Low Spenders and Less Frequent Shoppers
+481,2068.14,4,3,2,Low Spenders and Less Frequent Shoppers
+482,3438.86,5,3,2,Low Spenders and Less Frequent Shoppers
+483,5440.0,11,5,0,Frequent Shoppers and Medium Spenders
+484,3302.85,7,5,2,Low Spenders and Less Frequent Shoppers
+485,6878.95,14,5,1,High Spenders
+486,5698.82,9,4,0,Frequent Shoppers and Medium Spenders
+487,3637.24,9,5,0,Frequent Shoppers and Medium Spenders
+488,5570.02,10,6,0,Frequent Shoppers and Medium Spenders
+489,3808.96,11,6,0,Frequent Shoppers and Medium Spenders
+490,5697.15,8,4,0,Frequent Shoppers and Medium Spenders
+491,5524.28,11,5,0,Frequent Shoppers and Medium Spenders
+492,3277.54,5,3,2,Low Spenders and Less Frequent Shoppers
+493,10833.1,19,6,1,High Spenders
+494,4092.66,8,5,0,Frequent Shoppers and Medium Spenders
+495,3224.94,8,5,2,Low Spenders and Less Frequent Shoppers
+496,4660.47,9,5,0,Frequent Shoppers and Medium Spenders
+497,5679.25,11,5,0,Frequent Shoppers and Medium Spenders
+498,5387.75,11,5,0,Frequent Shoppers and Medium Spenders
+499,7705.5,14,6,1,High Spenders
+500,3679.76,9,5,0,Frequent Shoppers and Medium Spenders
